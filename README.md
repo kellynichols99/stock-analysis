@@ -26,7 +26,12 @@
   <br>
   <h1>Summary</h1>
   <p>
-  I understand and support the idea of refactoring. Taking the time and effort to review and improve your code should be a possitive experience, however, it did not work in my favor this time. Generally speaking we are able to improve our work with each time we practice or look at it with a new set of eyes. This time my refactored code just missed the run time mark and took longer to run the second time around. So I am not able to say that my efforts created better efficiency in my code work. In this situation it may not have been worth the time it took to refactor the code, seeing as time invested did not make a possitive difference in the outcome. I will have to keep this in mind for future projects and will also continue to practive VBA much more in the future. 
+  I understand and support the idea of refactoring. Taking the time and effort to review and improve your code should be a possitive experience, however, it did not work in my favor this time. Generally speaking we are able to improve our work with each time we practice or look at it with a new set of eyes. This time my refactored code just missed the run time mark and took longer to run the second time around. So I am not able to say that my efforts created better efficiency in my code work.
+  <br>
+  <br> 
+  When it comes to the original code, you are work step by step to accomplish a task and troubleshooting along the way, it was simple. The refactored code completed the same work but was more complicated. In this situation it may not have been worth the time it took to refactor the code, seeing as time invested did not make a positive difference in the outcome.
+  <br>
+  <br>I will have to keep this in mind for future projects and will also continue to practice VBA much more in the future. This way my refactored code is really more efficient.
 </p> 
 </body>
     
