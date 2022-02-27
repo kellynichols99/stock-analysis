@@ -21,7 +21,7 @@
   <img src= "https://github.com/kellynichols99/stock-analysis/blob/main/Resources/2017%20Refactored%20Run%20time.png">
   <img src= "https://github.com/kellynichols99/stock-analysis/blob/main/Resources/2018%20Refactored%20run%20time.png">
   </p>
-  Based on the images of the run times I was not able to accomplish the goal of improving the run time. The times are still very close but not an improvment. 
+  Based on the images of the run times I was not able to accomplish the goal of improving the run time. The times are still very close but not an improvment. The refactored doce did maintian accuracy however.
   </p>
   <br>
   <h1>Summary</h1>
